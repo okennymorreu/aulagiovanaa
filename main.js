@@ -8,6 +8,6 @@ function areaQuadrado (lado) {
 }
 console.log (areaQuadrado (6));
 let media= function( ) {
-return ;
-console.log ;
+return  ;
+ console.log ( );
 }
