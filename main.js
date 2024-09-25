@@ -13,6 +13,6 @@ return;
 }
 console.log (media(1,2,3));
 
-let nome=prompt(nome?)
+let nome=prompt(nome?);
 document.write (nome);
 =parseInt(prompt (nome?));
