@@ -30,7 +30,7 @@ for (let i = 0; i < estados.length; i++) {
 }
 
 let idade = 16;
-if (condition) {
+if (idade >16) {
     console.log('pode dirigir')
 }
 else {
