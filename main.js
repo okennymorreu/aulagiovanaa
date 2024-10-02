@@ -17,4 +17,4 @@
 // document.write (nome);
 // =parseInt(prompt (nome?));
 
-let estados =['pr','rj','sp','sc','mg','bh','ba','df','es','ma','mt','ms','pb','pa','pe','pi','rn','rs','ro','rr','se','to','ac','al','ap','am','ce'.];
+let estados =['pr','rj','sp','sc','mg','bh','ba','df','es','ma','mt','ms','pb','pa','pe','pi','rn','rs','ro','rr','se','to','ac','al','ap','am','ce'];
